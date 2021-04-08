@@ -1,0 +1,1 @@
+A simple Javascript app that simulates a game of rock, paper, scissors. 
